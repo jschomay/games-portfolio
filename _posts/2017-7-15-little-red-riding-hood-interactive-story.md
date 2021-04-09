@@ -21,8 +21,8 @@ You can play each of these variations here:
 
 ### <a href="http://blog.elmnarrativeengine.com/sample-stories/little-red-riding-hood/classic/">Classic text-based</a>
 
-### <a href="http://blog.elmnarrativeengine.com/sample-stories/little-red-riding-hood/point-and-click/">Point-and-click adventure style</a>
+### <a href="https://enegames.itch.io/little-red-riding-hood-a">Point-and-click adventure style</a>
 
-### <a href="http://blog.elmnarrativeengine.com/sample-stories/little-red-riding-hood/top-down/">Top-down RPG style</a>
+### <a href="https://enegames.itch.io/little-red-riding-hood-b">Top-down RPG style</a>
 
-  
+

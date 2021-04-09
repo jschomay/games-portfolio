@@ -2,7 +2,7 @@
 layout: default
 modal-id: darkness
 title: Darkness
-link: https://www.springthing.net/2019/play_online/Darkness/index.html
+link: https://enegames.itch.io/darkness
 featured: splash.jpg
 description: Twine-like narrative game about finding hope
 order: 350
